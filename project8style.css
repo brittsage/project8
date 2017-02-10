@@ -1,6 +1,48 @@
 <style type="text/css">
 
-table, tr, th {
-background-color: yellow
+.green {
+color:green;
+font-weight:bold;
+text-align;center;
+}
+
+table, th, td, {
+font-family: Verdana;
+font-size:650px;
+padding: 5px
+}
+
+.rowone {
+background-color:yellow;
+border-style: solid
+font-weight:bold
+
+.numbers {
+color:red
+border-style:dashed;
+border-color:blue;
+border-collapse:collapse;
+}
+
+.blue {
+color:blue;
+border-style:dashed;
+border-color:blue;
+border-collapse:collapse;
+}
+
+.weather {
+border-style:dashed;
+border-color:blue;
+border-collapse: collapse;
+}
+
+.pics {
+border-style:dashed;
+border-color:blue;
+border-collapse:collapse;
+}
+
+
 
 
