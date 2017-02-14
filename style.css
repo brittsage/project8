@@ -15,32 +15,32 @@ font-size:650px;
 padding: 5px
 }
 
-table.rowone {
+table#tablez th {
 background-color:yellow;
 border-style: solid
 font-weight:bold
 
-table.numbers {
+table#tablez tr:.numbers {
 color:red
 border-style:dashed;
 border-color:blue;
 border-collapse:collapse;
 }
 
-table.blue {
+table#tablez tr:.blue  {
 color:blue;
 border-style:dashed;
 border-color:blue;
 border-collapse:collapse;
 }
 
-table.weather {
+table#tablez tr:.weather {
 border-style:dashed;
 border-color:blue;
 border-collapse: collapse;
 }
 
-table.pics {
+table#tablez tr:.pics {
 border-style:dashed;
 border-color:blue;
 border-collapse:collapse;
