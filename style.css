@@ -15,32 +15,32 @@ font-size:650px;
 padding: 5px
 }
 
-.rowone {
+table.rowone {
 background-color:yellow;
 border-style: solid
 font-weight:bold
 
-.numbers {
+table.numbers {
 color:red
 border-style:dashed;
 border-color:blue;
 border-collapse:collapse;
 }
 
-.blue {
+table.blue {
 color:blue;
 border-style:dashed;
 border-color:blue;
 border-collapse:collapse;
 }
 
-.weather {
+table.weather {
 border-style:dashed;
 border-color:blue;
 border-collapse: collapse;
 }
 
-.pics {
+table.pics {
 border-style:dashed;
 border-color:blue;
 border-collapse:collapse;
