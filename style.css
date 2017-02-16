@@ -4,6 +4,9 @@
 
 #tablez {
   width:100% ;
+ font-family: Verdana;
+font-size:650px;
+padding: 5px;
 }
 
 .green {
@@ -12,11 +15,7 @@ font-weight:bold;
 text-align;center;
 }
 
-table, th, td, {
-font-family: Verdana;
-font-size:650px;
-padding: 5px
-}
+
 
 #tablez th {
 background-color:yellow;
