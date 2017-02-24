@@ -28,27 +28,27 @@ font-weight:bold;
 }
 
 
-table.numbers {
+.numbers {
 color:red
 border-style:dashed;
 border-color:blue;
 border-collapse:collapse;
 }
 
-table.blue  {
+.blue  {
 color:blue;
 border-style:dashed;
 border-color:blue;
 border-collapse:collapse;
 }
 
-table.weather {
+.weather {
 border-style:dashed;
 border-color:blue;
 border-collapse: collapse;
 }
 
-table.pics {
+.pics {
 border-style:dashed;
 border-color:blue;
 border-collapse:collapse;
