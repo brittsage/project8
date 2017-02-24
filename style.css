@@ -26,27 +26,27 @@ font-weight:bold;
 }
 
 
-.numbers {
+td.numbers {
 color:red
 border-style:dashed;
 border-color:blue;
 border-collapse:collapse;
 }
 
-.blue  {
+td.blue  {
 color:blue;
 border-style:dashed;
 border-color:blue;
 border-collapse:collapse;
 }
 
-.weather {
+td.weather {
 border-style:dashed;
 border-color:blue;
 border-collapse: collapse;
 }
 
-.pics {
+td.pics {
 border-style:dashed;
 border-color:blue;
 border-collapse:collapse;
